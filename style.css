@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: cadetblue;
+    padding-top: 100px;
+    font-family: cursive;
+}
+
+h1 {
+    color: beige;
+
+}
+p {
+    color: beige;
+}
+
+.Top-Cloud{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.Bottom-Cloud{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.mountain{
+    width: 1300px;
+    height: 450px;
+}
